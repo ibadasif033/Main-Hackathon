@@ -73,3 +73,9 @@ body {
     display: none;
 }
 
+.main-sec1-header{
+    background: url(../Clone-images/home-banner.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
